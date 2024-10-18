@@ -1,8 +1,6 @@
 ### Hi there 👋, MD Toriqul Islam
 #### Full Stake Web Developer
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+developer)]
-(https://git.io/typing-svg)
-[(https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif)]
 
 a professional, versatile, and passionate programmer in my daily life. I am a quick learner and have a self-learning attitude. I enjoy learning and exploring new technologies and I am passionate about problem-solving. I love almost all the stacks of software engineering. My current stack includes NestJS, Express, Typescript, React, Nextjs, MongoDB, MySql, git & github etc. Besides this, I have a well understanding about wordpress cms, php and laravel. So, let's discuss your project and give a chance to turn it into reality. thank you
 
