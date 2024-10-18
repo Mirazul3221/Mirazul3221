@@ -2,7 +2,7 @@
 #### Full Stake Web Developer
 ![Full Stake Web Developer](https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif)
 
-Hi friend, I am Toriqul Islam, full stack web developer, a professional, versatile, and passionate programmer in my daily life. I am a quick learner and have a self-learning attitude. I enjoy learning and exploring new technologies and I am passionate about problem-solving. I love almost all the stacks of software engineering. My current stack includes NestJS, Express, Typescript, React, Nextjs, MongoDB, MySql, git & github etc. Besides this, I have a well understanding about wordpress cms, php and laravel. So, let's discuss your project and give a chance to turn it into reality. thank you
+a professional, versatile, and passionate programmer in my daily life. I am a quick learner and have a self-learning attitude. I enjoy learning and exploring new technologies and I am passionate about problem-solving. I love almost all the stacks of software engineering. My current stack includes NestJS, Express, Typescript, React, Nextjs, MongoDB, MySql, git & github etc. Besides this, I have a well understanding about wordpress cms, php and laravel. So, let's discuss your project and give a chance to turn it into reality. thank you
 
 Skills: VUE JS / REACT / JS / HTML / CSS/NODE/EXPRESS/NEST/MONGODB
 
