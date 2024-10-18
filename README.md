@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![snake gif](https://github.com/username/github-readme-snake.svg)
+![snake gif](https://github.com/Mirazul3221/github-readme-snake.svg)
   
   <br/><br/><br/>
 </div>
